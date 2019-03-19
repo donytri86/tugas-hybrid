@@ -1,9 +1,9 @@
 {
   "nama" : "Dony Tri Prasetya",
   "nim" : "17.01.4079",
-  "hobi" : {
+  "hobi" : [
     "membaca",
     "tidur"
-  },
+  ],
   "ipk" : 4
 }
