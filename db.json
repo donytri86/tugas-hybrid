@@ -1,9 +1,11 @@
 {
-  "nama" : "Dony Tri Prasetya",
-  "nim" : "17.01.4079",
-  "hobi" : [
-    "membaca",
-    "tidur"
-  ],
-  "ipk" : 4
+  "biodata" : {
+    "nama" : "Dony Tri Prasetya",
+    "nim" : "17.01.4079",
+    "hobi" : [
+      "membaca",
+      "tidur"
+    ],
+    "ipk" : 4
+  }
 }
